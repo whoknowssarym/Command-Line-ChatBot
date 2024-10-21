@@ -16,4 +16,10 @@ Before running the chatbot, ensure you have the following installed:
 - Nvidia API key (Sign up and get it from [Nvidia](https://developer.nvidia.com))
 - Required libraries (pyfiglet , openai , termcolor)  
 
+## Sample Image.
+<!-- Sample Image Section -->
+<p align="center">
+  <img src="./SAMPLE.png" alt="SAMPLE Image" width="400" />
+</p>
+
 ## Made With ❤️ By Sarim.
