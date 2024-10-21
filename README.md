@@ -14,6 +14,6 @@ Before running the chatbot, ensure you have the following installed:
 
 - Python 3.x
 - Nvidia API key (Sign up and get it from [Nvidia](https://developer.nvidia.com))
-- Required libraries (listed in `requirements.txt`)
+- Required libraries (pyfiglet , openai , termcolor)  
 
 ## Made With ❤️ By Sarim.
