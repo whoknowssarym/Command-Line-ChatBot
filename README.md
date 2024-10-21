@@ -19,7 +19,7 @@ Before running the chatbot, ensure you have the following installed:
 ## Sample Image.
 <!-- Sample Image Section -->
 <p align="center">
-  <img src="./SAMPLE.png" alt="SAMPLE Image" width="400" />
+  <img src="./SAMPLE.png" alt="SAMPLE Image" width="500" />
 </p>
 
 ## Made With ❤️ By Sarim.
